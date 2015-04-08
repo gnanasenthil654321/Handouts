@@ -1,0 +1,110 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=0.25in]{geometry}
+\usepackage{enumerate}
+\usepackage{microtype}
+
+\begin{document}
+\vspace*{\fill}
+	\begin{center}
+		\begin{Huge}
+				\textbf {CNS - OSPE}
+		\end{Huge}	
+	\end{center}
+
+	\begin{enumerate}[I]
+		\item \textbf{Test the position sense in the upper limb of the given subject.}
+		\begin{enumerate}[1]
+			\item Make the subject sit comfortably and stand on the right side.
+			\item Give instruction about the flexed and extended position of the index finger and ask the subject to imitate the same movement on the opposite limb.
+			\item Ask the subject to close his eyes. Stabilize the index finger at the sides of the distal interphalangeal joint.
+			\item Do the passive flexion and extension of the distal phalanx of the index finger and report.
+		\end{enumerate}
+		
+		\item \textbf{Test the tone of the upper limb muscles at the elbow joint in the given subject.}
+
+
+		\begin{enumerate}[1]
+			\item Make the subject comfortable and stand on the right side of the subject.
+			\item Expose the part to be examined. Feel the Tautness of the muscle by holding the muscle to be examined between the thumb and other four fingers.
+			\item Feel the tone of the muscle by performing passive movements.
+			\item Do the same on the other limb and report.
+		\end{enumerate}				
+		
+		\item \textbf{Test the power of the biceps muscle in the given subject}
+		\begin{enumerate}[1]
+		\item Make the subject comfortable and stand on the right side of the subject.
+		\item Expose the part to be examined and instruct the patient about the flexion movement and application of resistance.
+		\item Ask the subject to flex the arm against resistance and feel the strength of the biceps muscle.
+		\item Do the same on the other limb and report.
+		\end{enumerate}
+		
+		\item \textbf{Test the coordination of movement in the upper limb by the finger finger nose test in the given subject.}
+		\begin{enumerate}[1]
+		\item Make the subject comfortable and stand on the right side.
+		\item Ask the subject to extend one arm on the side and put your index finger in front of the subject.
+		\item Ask the subject to first touch your finger with his index finger and then touch his nose 2 to 3 times.
+		\item Do the same procedure on the other limb and report.
+		\end{enumerate}
+		
+		\item \textbf{Demonstrate the Rinne’s test in the given subject.}
+		\begin{enumerate}[1]
+		\item Make the subject comfortable and give the instruction.
+		\item Vibrate the tuning fork and keep the base over the mastoid process behind the ear.
+		\item Ask the subject to raise a finger when he stops hearing the sound, immediately hold the prongs of the tuning fork parallel to the external ear and ask whether  he can hear the sound.
+		\item Do the same on the other side and report	
+		\end{enumerate}
+		
+		\item \textbf{Elicit the Knee jerk in the given subject in the sitting posture.}
+		\begin{enumerate}[1]
+		\item To stand on the right side of the subject. Proper positioning of the subject -- he must cross the leg \& the leg should not touch the ground.
+		\item Proper holding of the knee hammer.
+		\item Strike the patellar tendon with the narrow end of the knee hammer (only wrist movement)
+		\item Elicit the reflex similarly on the opposite side and report.
+		\end{enumerate}
+		
+		\item \textbf{Examine the Plantar reflex in the given subject}
+		\begin{enumerate}[1]
+		\item To stand on the right side of the subject. Instruct the subject to stretch the leg on the stool \& to relax completely.
+		\item Gently fix the foot by placing the left hand a little above the ankle.
+		\item Gently stroke with the pointed metallic end of the Knee hammer on the outer edge of the sole of the foot from heel towards the little toe \& then medially across the Metatarsals.
+		\item Elicit the reflex on the other limb and report.
+		\end{enumerate}
+	\end{enumerate}
+\vspace*{\fill}
+
+\newpage
+\vspace*{\fill}
+	\begin{center}
+		\begin{Huge}
+				\textbf {CVS - OSPE}
+		\end{Huge}	
+	\end{center}
+\begin{enumerate}[I]
+\item \textbf{Examine the JVP of the given subject.}
+	\begin{enumerate}[1]
+		\item Make the subject to sit with the upper part of the body supported at an angle of 45 degree.
+		\item The chin is turned slightly to the left.
+		\item Inspect the neck veins carefully.
+		\item Report.
+	\end{enumerate}
+	
+\item \textbf{Examine the movements of the chest wall of the given subject.}
+	\begin{enumerate}[1]
+	\item Make the subject sit comfortably and stand on front.
+	\item Place the palm over the chest on both sides with fingers spread apart and the thumbs approximating each other in the midline.
+	\item Ask the subject to take in a deep inspiration.
+	\item Observe the separation of the thumb with the movements of the chest wall during deep inspiration and report.
+	\end{enumerate}
+
+\item \textbf{Examine the heart sounds of the given subject}
+	\begin{enumerate}
+	\item Make the subject comfortable and stand to the subject’s right side.
+	\item Expose the chest, touch and show all the four auscultatory areas.
+	\item Place the diaphragm of the stethoscope over all the 4 areas and auscultate.
+	\item Report. 
+	\end{enumerate}
+
+\end{enumerate}
+\vspace*{\fill}
+
+\end{document}
